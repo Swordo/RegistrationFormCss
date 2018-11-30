@@ -1,0 +1,31 @@
+body{
+    background-color: #c2c2c2;
+}
+.main{
+    background-color: white;
+    width: 30%;
+    height: 700px;
+    margin-left: 33%;
+    margin-top: 5%;
+}
+.rTxt{
+    padding-top: 7%;
+    padding-left: 9%;  
+}
+.pTxt{
+    padding-left : 9%;
+    color: #b8b8b8;
+}
+.input-group{
+    width: 80%;
+    margin-left: 9%;
+     
+}
+button{
+    margin-left : 9%;
+    width:80%
+}
+.auth{
+    margin-left: 9%;
+}
+
